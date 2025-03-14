@@ -1,0 +1,66 @@
+/* Main Styling */
+.main {
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Light Mode Color Variables */
+:root {
+    --primary-color: #8bb8e8;
+    --secondary-color: #b6cfe9;
+    --accent-color: #ffd6dc;
+    --text-color: #2c3e50;
+    --background-color: #f9f9f9;
+    --card-background: #ffffff;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --border-color: #e0e0e0;
+    --highlight-color: #a5d8ff;
+    --success-color: #c0e5c3;
+    --warning-color: #ffe0b2;
+    --error-color: #ffcdd2;
+}
+
+/* Dark Mode Color Variables (Applied via JavaScript) */
+.dark-mode {
+    --primary-color: #5c88b0;
+    --secondary-color: #3a5064;
+    --accent-color: #a16d72;
+    --text-color: #e0e0e0;
+    --background-color: #121212;
+    --card-background: #1e1e1e;
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --border-color: #333333;
+    --highlight-color: #2c5784;
+    --success-color: #386e3c;
+    --warning-color: #865c29;
+    --error-color: #863233;
+}
+
+/* Homepage Styling */
+.greeting {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.date {
+    font-size: 1.2rem;
+    color: var(--text-color);
+    margin-top: 0;
+    opacity: 0.8;
+}
+
+.section-header {
+    color: var(--text-color);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 0.5rem;
+}
+
+.affirmation-card {
+    background-color: var(--accent-color);
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin:}
