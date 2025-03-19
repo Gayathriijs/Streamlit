@@ -24,10 +24,16 @@ Lifestyle Hub is an all-in-one personal lifestyle management application that he
 )
 ![Habit tracker]![image](https://github.com/user-attachments/assets/72cf0dec-c34d-47f8-8b90-5ebde25e5fdf)
 )
+![Affirmations]!![image](https://github.com/user-attachments/assets/1e92f236-f6c5-4b1d-ae88-4927282b7f02)
+)
+![daily planner]!![Screenshot 2025-03-19 222356](https://github.com/user-attachments/assets/9e6eb926-6650-4d3e-8912-2c5114979f74)
+)
+![Long term planner]![image](https://github.com/user-attachments/assets/65ab0288-73b7-4360-8451-aec2a9a5f6eb)
+)
+![Finance tracker]!![Screenshot 2025-03-19 223004](https://github.com/user-attachments/assets/63ffc169-5230-4c7f-be1b-0a674a97d605)
+)
 
-
-
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -58,7 +64,6 @@ Lifestyle Hub is an all-in-one personal lifestyle management application that he
    streamlit run app.py
    ```
 
-5. Open your browser and navigate to `http://localhost:8501`
 
 ## 📦 Dependencies
 
@@ -82,11 +87,8 @@ The application stores all user data locally in a JSON file (`user_data.json`). 
 
 Daily to-do items reset each day and are stored in session state.
 
-## 🎨 Customization
+## Customization
 
-### Theme
-
-The application supports both light and dark modes. You can toggle between them using the theme button in the sidebar.
 
 ### Custom CSS
 
@@ -116,21 +118,7 @@ The Finance Tracker provides visual analysis of your spending patterns, includin
 
 ### Habit Heatmap
 
-The Habit Tracker includes a heatmap visualization showing your habit completion over time, helping you identify patterns and consistency.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The Habit Tracker includes a heatmap visualize
 
 ## 🔮 Future Enhancements
 
@@ -144,6 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Gayathri J S - [Gmail](gayathri.js.official@gmail.com)
 
 Project Link: [https://github.com/username/lifestyle-hub](https://github.com/username/lifestyle-hub)
