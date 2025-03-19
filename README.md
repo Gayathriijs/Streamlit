@@ -65,7 +65,7 @@ Lifestyle Hub is an all-in-one personal lifestyle management application that he
    ```
 
 
-## 📦 Dependencies
+## Dependencies
 
 - streamlit
 - pandas
@@ -76,7 +76,7 @@ Lifestyle Hub is an all-in-one personal lifestyle management application that he
 - os
 - calendar
 
-## 💾 Data Storage
+## Data Storage
 
 The application stores all user data locally in a JSON file (`user_data.json`). This includes:
 
@@ -103,7 +103,7 @@ You can customize the appearance by modifying the `style.css` file. The applicat
 }
 ```
 
-## 🔧 Advanced Usage
+## Advanced Usage
 
 ### Custom Affirmations
 
@@ -120,7 +120,7 @@ The Finance Tracker provides visual analysis of your spending patterns, includin
 
 The Habit Tracker includes a heatmap visualize
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - User authentication system
 - Cloud synchronization
@@ -130,8 +130,8 @@ The Habit Tracker includes a heatmap visualize
 - Data visualization enhancements
 - Customizable dashboard widgets
 
-## 📬 Contact
+## Contact
 
 Gayathri J S - [Gmail](gayathri.js.official@gmail.com)
 
-Project Link: [https://github.com/username/lifestyle-hub](https://github.com/username/lifestyle-hub)
+Project Link: [Github project link ](https://github.com/Gayathriijs/Streamlit/tree/15df74f7be160d4f589cafd79d2577823bcce8aa)
