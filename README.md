@@ -22,7 +22,8 @@ Lifestyle Hub is an all-in-one personal lifestyle management application that he
 )
 ![Calendar View]![image](https://github.com/user-attachments/assets/06338b4b-c032-4f3e-8148-b6498b444479)
 )
-![Habit Tracker](https://raw.githubusercontent.com/username/lifestyle-hub/main/images/habit-tracker.png)
+![Habit Tracker](![image](https://github.com/user-attachments/assets/d2a698b1-d4f4-4940-acb1-6b9efbf6fb25)
+)
 
 ## 🚀 Installation
 
