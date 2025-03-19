@@ -7,7 +7,7 @@
 
 Lifestyle Hub is an all-in-one personal lifestyle management application that helps you organize your daily activities, track habits, manage finances, and maintain a positive mindset. Built with Streamlit, this application provides a clean and intuitive interface for managing various aspects of your life in one place.
 
-## ✨ Features
+## Features
 
 - **Home Dashboard**: Get a quick overview of your day with personalized greetings, affirmations, and quick access to important information
 - **Calendar**: Track events and appointments with a visual calendar interface
